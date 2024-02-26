@@ -1,6 +1,6 @@
 # Waasup 👋, I'm Ice
 
-[![My stats](https://github-readme-stats.vercel.app/api?username=IceK1203)](https://github-readme-stats.vercel.app/api?username=IceK1203)
+[![My stats](https://github-readme-stats.vercel.app/api?username=IceK1203&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=IceK1203&show_icons=true&theme=radical)
 
 
 <!--
