@@ -8,7 +8,7 @@ the the next year
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=py,js,html,css)](https://skillicons.dev)
 
-### Toola
+### Tools
 [![My Skills](https://skillicons.dev/icons?i=react,materialui,django,discord,git,pytorch,replit,supabase,firebase,vscode,yarn,npm,netlify,vercel)](https://skillicons.dev)
 
 ### My Github Stats:
