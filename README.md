@@ -1,4 +1,7 @@
-### Hi there 👋
+# Waasup 👋, I'm Ice
+
+[![My stats](https://github-readme-stats.vercel.app/api?username=IceK1203)](https://github-readme-stats.vercel.app/api?username=IceK1203)
+
 
 <!--
 **IceK1203/IceK1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
