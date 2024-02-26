@@ -9,7 +9,7 @@ the the next year
 [![My Skills](https://skillicons.dev/icons?i=py,js,html,css)](https://skillicons.dev)
 
 ### Toola
-[![My Skills](https://skillicons.dev/icons?i=react,materialui,django,discord,git,pytorch,replit,suapbase,firebase,vscode,yarn,npm,netlify,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,materialui,django,discord,git,pytorch,replit,supabase,firebase,vscode,yarn,npm,netlify,vercel)](https://skillicons.dev)
 
 ### My Github Stats:
 [![My stats](https://github-readme-stats.vercel.app/api?username=IceK1203&show_icons=true&theme=gruvbox)](https://github-readme-stats.vercel.app/api?username=IceK1203&show_icons=true&theme=gruvbox)
